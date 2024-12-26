@@ -37,7 +37,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌐 Connect with Us
 
 - [Website](https://joshuaedwards.me/)
-- [Buy Me A Coffee](https://www.buymeacoffee.com/joshedwards)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/neopad)
 - [GitHub](https://github.com/joshedwards237)
 
 ---
