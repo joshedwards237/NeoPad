@@ -4,7 +4,8 @@ NeoPad is a sleek, Windows-based live performance pad application crafted for mo
 
 # Under Development...
 Show me you want this product by supporting me!
-- [Buy Me A Coffee](https://www.buymeacoffee.com/neopad)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/joshedwards)
+- 
 
 
 
@@ -44,7 +45,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌐 Connect with Me
 
 - [Website](https://joshuaedwards.me/)
-- [Buy Me A Coffee](https://www.buymeacoffee.com/neopad)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/joshedwards)
 - [GitHub](https://github.com/joshedwards237)
 
 ---
