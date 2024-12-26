@@ -5,7 +5,6 @@ NeoPad is a sleek, Windows-based live performance pad application crafted for mo
 # Under Development...
 Show me you want this product by supporting me!
 - [Buy Me A Coffee](https://www.buymeacoffee.com/joshedwards)
-- 
 
 
 
