@@ -7,6 +7,8 @@ Show me you want this product by supporting me!
 - [Buy Me A Coffee](https://www.buymeacoffee.com/neopad)
 
 
+
+
 ## 🚀 Features
 
 - **Intuitive Interface**: Seamlessly designed for both professionals and beginners.
