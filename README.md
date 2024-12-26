@@ -22,32 +22,13 @@ NeoPad isn’t just another performance tool—it’s a gateway to unleashing yo
 - **Live Performance Enthusiasts**: Seamless integration for unforgettable performances.
 - **Music Educators**: Engage students with an interactive and creative tool for learning.
 
-## 🛠️ Installation
+## 🛠️ Progress
 
-1. Download the latest release of NeoPad from the [Releases](https://github.com/yourusername/NeoPad/releases) section.
-2. Install the application on your Windows system by running the installer.
-3. Launch NeoPad and start creating!
-
-## 🎵 Getting Started
-
-1. Open NeoPad and explore the **Setup Wizard** to configure your performance pads.
-2. Load your loops, samples, or effects using the **Drag-and-Drop Interface**.
-3. Customize your pad layout and trigger assignments to match your style.
-4. Start your performance and unleash your creativity!
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Whether it's reporting bugs, suggesting features, or submitting pull requests, we’d love to have your input.
-
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m "Add some feature"`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request.
+This is an active project that I work on in my free time! Follow my page to stay up-to-date with NeoPad and be the first to know when it is released. 
 
 ## 🛡️ Support
 
-For issues, suggestions, or questions, please open an [Issue](https://github.com/yourusername/NeoPad/issues) or contact us directly.
+For issues, suggestions, or questions, please open an [Issue](https://github.com/yourusername/NeoPad/issues) or contact me directly through joshua.edwards237@gmail.com.
 
 ## 📜 License
 
@@ -55,9 +36,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌐 Connect with Us
 
-- [Website](https://yourwebsite.com)
-- [Twitter](https://twitter.com/yourusername)
-- [GitHub](https://github.com/yourusername)
+- [Website](https://joshuaedwards.me/)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/joshedwards)
+- [GitHub](https://github.com/joshedwards237)
 
 ---
 
