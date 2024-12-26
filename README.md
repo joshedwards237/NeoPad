@@ -2,6 +2,11 @@
 
 NeoPad is a sleek, Windows-based live performance pad application crafted for modern musicians. Designed with ease of use and professionalism in mind, NeoPad lets performers effortlessly trigger loops, samples, and effects with precision and speed. Whether you're on stage, in the studio, or exploring your creativity, NeoPad is your ultimate performance companion.
 
+# Under Development...
+Show me you want this product by supporting me!
+- [Buy Me A Coffee](https://www.buymeacoffee.com/neopad)
+
+
 ## 🚀 Features
 
 - **Intuitive Interface**: Seamlessly designed for both professionals and beginners.
@@ -34,7 +39,7 @@ For issues, suggestions, or questions, please open an [Issue](https://github.com
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🌐 Connect with Us
+## 🌐 Connect with Me
 
 - [Website](https://joshuaedwards.me/)
 - [Buy Me A Coffee](https://www.buymeacoffee.com/neopad)
